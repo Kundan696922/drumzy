@@ -1,6 +1,6 @@
-# 🐱 MeowMate – Cat Matchmaking Website
+# 🥁 Drumzy
 
-An interactive drum kit built with **HTML**, **CSS**, **Bootstrap**, and **JavaScript**. Play different drum sounds by pressing the keyboard keys or clicking the buttons on the screen.
+Drumzy is an interactive drum kit built with **HTML**, **CSS**, **Bootstrap**, and **JavaScript**. Play different drum sounds by pressing the keyboard keys or clicking the buttons on the screen.
 
 
 ---
