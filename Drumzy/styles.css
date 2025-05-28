@@ -97,16 +97,16 @@ p {
 
   /* tablets and smaller */
   .drum {
-    width: 100px;
-    height: 100px;
+    width: 9rem;
+    height: 9rem;
     font-size: 1.5rem;
   }
 }
 
 @media (max-width: 576px) {
   .drum {
-    width: 60px;
-    height: 60px;
+    width: 6rem;
+    height: 6rem;
     font-size: 1.25rem;
   }
 }
