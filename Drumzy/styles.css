@@ -7,7 +7,7 @@
 
 
 .gradient-background {
-  background: linear-gradient(300deg, var(--main-1), var(--main-3), var(--main-4) );
+  background: linear-gradient(300deg, var(--main-1), var(--main-3), var(--main-4));
   background-size: 180% 180%;
   animation: gradient-animation 18s ease infinite;
 }
@@ -26,24 +26,19 @@
   }
 }
 
+
+
 h1 {
-  font-size: 5rem;
   color: #DBEDF3;
-  font-family: "Orbitron", cursive;
+  font-family: 'Bangers', cursive;
   text-shadow: 3px 0 var(--main-1);
-
+  font-size: 5rem;
 }
 
-p{
+p {
   color: var(--main-2);
-  font-family: "Orbitron", cursive;
-}
-
-footer {
-  border-top: 4px solid var(--main-2);
-  color: var(--main-3);
-  font-family: "Orbitron", cursive;
-  background-color: var(--main-4);
+  font-family: 'Bangers', cursive;
+  font-size: 1.5rem;
 }
 
 .w {
@@ -74,10 +69,6 @@ footer {
   background-image: url("images/kick.png");
 }
 
-.set {
-  margin: 10% auto;
-}
-
 .pressed {
   box-shadow: 0 3px 4px 0 #DBEDF3;
   opacity: 0.5;
@@ -99,4 +90,28 @@ footer {
   text-align: center;
   margin: 10px;
   background-color: white;
+}
+
+@media (max-width: 991.98px) {
+
+  /* tablets and smaller */
+  .drum {
+    width: 100px;
+    height: 100px;
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .drum {
+    width: 60px;
+    height: 60px;
+    font-size: 1.25rem;
+  }
+}
+
+.footer {
+  border-top: 2px solid var(--main-2);
+  color: var(--main-3);
+  background-color: var(--main-4);
 }
