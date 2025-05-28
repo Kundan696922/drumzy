@@ -25,7 +25,7 @@ Drumzy is an interactive drum kit built with **HTML**, **CSS**, **Bootstrap**, a
 
 ## 📸 Overview
 
-![Screenshot 2025-05-25 004659](https://github.com/user-attachments/assets/feff1a67-7d5d-487c-9964-f4705e618c64)
+![Screenshot 2025-05-28 204421](https://github.com/user-attachments/assets/133e3fb1-69a7-4d98-8824-7adcef5f8079)
 
 ---
 
